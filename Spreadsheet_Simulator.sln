@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_Simulator", "Spreadsheet_Simulator\Spreadsheet_Simulator.csproj", "{A1D45000-EFF3-485C-8528-2ED787EB925A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D45000-EFF3-485C-8528-2ED787EB925A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D45000-EFF3-485C-8528-2ED787EB925A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D45000-EFF3-485C-8528-2ED787EB925A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D45000-EFF3-485C-8528-2ED787EB925A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
